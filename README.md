@@ -1,17 +1,20 @@
-## Hi there 👋
+# Hi there, I'm GaddoStaffu! 👋
 
-<!--
-**GaddoStaffu/GaddoStaffu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Programming Languages: Python and Java (planning to learn C++)
+- Frameworks: Django
 
-Here are some ideas to get you started:
+## Projects
+Here are some of the projects I have worked on:
+- QR-Based Attendance System with geofencing (Private Repo atm)
+- gawrgura-aiocai(https://github.com/GaddoStaffu/gawrgura-aiocai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 🔭 I’m currently working on a 'QR Attendance System with geofencing' for our school.
+## Get in Touch
+- Email: jomarilagumen02@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jomari-lagumen-359a4233a/
+
+## Fun Facts
+- 🌱 I’m currently learning FastAPI for our project
+- ⚡ Fun fact: [a fun fact about you]
+
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas.
