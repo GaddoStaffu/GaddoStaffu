@@ -14,7 +14,7 @@ Here are some of the projects I have worked on:
 - LinkedIn: https://www.linkedin.com/in/jomari-lagumen-359a4233a/
 
 ## Fun Facts
-- 🌱 I’m currently learning FastAPI for our project
-- ⚡ Fun fact: [a fun fact about you]
+- 🌱 I’m currently learning FastAPI for our QR attendance system project
+- ⚡ I like to watch anime, vtubers, and Im also a computer science student :)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas.
