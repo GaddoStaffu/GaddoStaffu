@@ -2,7 +2,7 @@
 
 ## Skills
 - Programming Languages: Python and Java (planning to learn C++)
-- Frameworks: Django
+- Backend: Django and FastAPI
 
 ## Projects
 Here are some of the projects I have worked on:
