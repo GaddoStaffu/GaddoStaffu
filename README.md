@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/GaddoStaffu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/jomari-lagumen-359a4233a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/jomari.lagumen.2024" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I'm an aspiring Computer Science graduate who loves creating things. I’m always learning and exploring new technologies to improve my skills, from full-stack web development to game design frameworks. My passion lies in solving problems, automating tasks, and bringing digital ideas to life.</h3>**
+ **<h3 align="left">I'm a Computer Science graduate aiming to make fun and useful things, from websites to games. I’m always learning and exploring new technologies to improve my skills, from full-stack web development to game design frameworks. My passion lies in solving problems, automating tasks, and bringing digital ideas to life.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
