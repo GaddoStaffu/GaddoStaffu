@@ -1,4 +1,4 @@
-![Profile views](https://github.com/GaddoStaffu/GaddoStaffu/blob/main/amine.png)
+![Profile views](https://github.com/GaddoStaffu/GaddoStaffu/blob/main/animegal.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -19,7 +19,7 @@
 
 - 💼 I'm currently working on: **An auto refresh and notification extension in Chrome for a specific website**
 - 🌱 I'm currently learning: **C++ to create fun games in Unity**
-- 💬 Ask me about: **Machine Learning, Gaming, Computer Hardware, and More!**
+- 💬 Ask me about: **Machine Learning, Gaming, Computer Hardware, Digital Art and More!**
 
  **<h3 align="left">Skills</h3>**
 
