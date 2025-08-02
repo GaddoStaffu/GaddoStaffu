@@ -1,4 +1,4 @@
-![Profile views](https://github.com/GaddoStaffu/GaddoStaffu/blob/main/animegal.png)
+![Profile views](https://github.com/GaddoStaffu/GaddoStaffu/blob/main/eyes.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
