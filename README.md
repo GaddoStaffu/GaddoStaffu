@@ -17,9 +17,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **A auto refresh and notification extension in chrome for a specific website**
+- 💼 I'm currently working on: **An auto refresh and notification extension in Chrome for a specific website**
 - 🌱 I'm currently learning: **C++ to create fun games in Unity**
-- 💬 Ask me about: **💡 Machine Learning, Gaming, Computer Hardware and More!**
+- 💬 Ask me about: **Machine Learning, Gaming, Computer Hardware, and More!**
 
  **<h3 align="left">Skills</h3>**
 
