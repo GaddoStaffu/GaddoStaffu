@@ -10,13 +10,13 @@
   </ul>
 </div>
 
- **<h3 align="left">I'm a Computer Science graduate aiming to make fun and useful things, from websites to games. I’m always learning and exploring new technologies to improve my skills, from full-stack web development to game design frameworks. My passion lies in solving problems, automating tasks, and bringing digital ideas to life.</h3>**
+ **<h3 align="left">I'm a Computer Science graduate aiming to make fun things, from random stuff to games. I’m always learning and exploring new technologies to improve my skills, from full-stack web development to game design frameworks.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: ** **
 - 🌱 I'm currently learning: **C# to create fun games in Unity**
-- 💬 Ask me about: **Machine Learning, Gaming, Computer Hardware, Digital Art and More!**
+- 💬 Ask me about: **Machine Learning, Gaming, Computer Hardware, Digital Art, and More!**
 
  **<h3 align="left">Skills</h3>**
 
